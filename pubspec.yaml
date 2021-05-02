@@ -33,6 +33,17 @@ dependencies:
   firebase_database: ^6.1.1
   fluttertoast: ^8.0.3
   google_maps_flutter: ^2.0.3
+  geolocator: ^7.0.3
+  http: ^0.13.1
+  provider: ^5.0.0
+  font_awesome_flutter: ^9.0.0
+  flutter_polyline_points: ^1.0.0
+  animated_text_kit: ^4.2.1
+  history: ^1.0.2
+
+
+
+
 
 
 
@@ -68,6 +79,7 @@ flutter:
      - images/taxi.png
      - images/person.png
      - images/logoour.png
+     - images/pickicon.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
